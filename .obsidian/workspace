@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "f3766c9d0b7702b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "57f44b3b8cf12a7b",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Soups/Roasted Butternut Squash Soup.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "595c62c5569f6def",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2c634329a06ea6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b8ba3d0890180bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f75a029b3ad16478",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b951b41fc791d1ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "26f6655bfc229132",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4833dff22a4b95f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Soups/Roasted Butternut Squash Soup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69da55058a3d9c8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Soups/Roasted Butternut Squash Soup.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Soups/Roasted Butternut Squash Soup.md",
+    "Untitled.md",
+    "Appetizers/Slow Cooker Frittata with Artichoke Heart.md",
+    "Breakfast/Mexican Mocha Scones.md",
+    "Mains/Curry Cauliflower Rice.md",
+    "Vegetable Stock.md",
+    "Keto Butter Chicken.md",
+    "Low Carb Naan.md",
+    "Desserts/Very Excellent Chocolate Chip Cookies.md",
+    "Desserts/Coffee Jelly.md"
+  ]
+}
